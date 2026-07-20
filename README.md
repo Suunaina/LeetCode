@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Suunaina/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Suunaina/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suunaina/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Suunaina/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suunaina/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Suunaina/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Suunaina/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
