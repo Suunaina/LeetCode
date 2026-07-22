@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Suunaina/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suunaina/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suunaina/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Suunaina/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Suunaina/LeetCode/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Suunaina/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Suunaina/LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Suunaina/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suunaina/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suunaina/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Suunaina/LeetCode/tree/master/0394-decode-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suunaina/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suunaina/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Suunaina/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Suunaina/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suunaina/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
