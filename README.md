@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Suunaina/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Suunaina/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suunaina/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Suunaina/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Suunaina/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Suunaina/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Suunaina/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search Tree
 |  |
 | ------- |
