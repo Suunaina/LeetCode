@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Suunaina/LeetCode/tree/master/0367-valid-perfect-square) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suunaina/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Suunaina/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Suunaina/LeetCode/tree/master/1929-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suunaina/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
