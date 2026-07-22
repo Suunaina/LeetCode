@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Suunaina/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Suunaina/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Suunaina/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Suunaina/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suunaina/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suunaina/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Suunaina/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Suunaina/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Suunaina/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Suunaina/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Suunaina/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Suunaina/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Suunaina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suunaina/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Suunaina/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Suunaina/LeetCode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
