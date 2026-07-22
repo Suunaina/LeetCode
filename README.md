@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Suunaina/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Suunaina/LeetCode/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Suunaina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Suunaina/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suunaina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Suunaina/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suunaina/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Suunaina/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
