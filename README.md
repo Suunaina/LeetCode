@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Suunaina/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suunaina/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Suunaina/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Suunaina/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Tree
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Suunaina/LeetCode/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Suunaina/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
