@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Suunaina/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Suunaina/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Suunaina/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Suunaina/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Suunaina/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Suunaina/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Counting
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suunaina/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Suunaina/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Suunaina/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
