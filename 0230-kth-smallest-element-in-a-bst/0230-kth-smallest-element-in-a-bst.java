@@ -43,3 +43,9 @@ class Solution {
         inorder(root.right, k);
     }
 }
+
+// class Solution{
+//     public int kthSmallest(TreeNode root, int k) {
+//         return k;
+//     }
+// }
