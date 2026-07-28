@@ -1,25 +1,18 @@
 class Solution {
-    int dp[];
+    int[] dp;
+
     public int tribonacci(int n) {
-        dp = new int[n+1];
-        return solve(n);       
+        dp = new int[n + 1];
+        return solve(n);
     }
 
-    public int solve(int n){
-        if(n == 0){
-            return 0;
-        }
+    public int solve(int n) {
+        if (n == 0) return 0;
+        if (n == 1 || n == 2) return 1;
 
-        else if(n == 1 || n == 2){
-            return 1;
-        }
-        
-        if(dp[n] != 0){
-            return dp[n];
-        }
+        if (dp[n] != 0) return dp[n];
 
-        dp[n] = solve(n-1) + solve(n-2) + solve(n-3);
-        
+        dp[n] = solve(n - 1) + solve(n - 2) + solve(n - 3);
         return dp[n];
     }
 }
