@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suunaina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Suunaina/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Suunaina/LeetCode/tree/master/0125-valid-palindrome) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suunaina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Suunaina/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Suunaina/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Suunaina/LeetCode/tree/master/0077-combinations) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suunaina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Suunaina/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suunaina/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suunaina/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
