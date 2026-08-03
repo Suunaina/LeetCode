@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suunaina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Suunaina/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Suunaina/LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suunaina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Suunaina/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Suunaina/LeetCode/tree/master/0070-climbing-stairs) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suunaina/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suunaina/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Suunaina/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Suunaina/LeetCode/tree/master/0077-combinations) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Suunaina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Suunaina/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Suunaina/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
