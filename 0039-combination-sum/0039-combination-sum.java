@@ -5,8 +5,7 @@ class Solution {
         return ans;
     }
 
-    public void backtrack(int[] candidates, int target, int index,
-                          List<Integer> curr, List<List<Integer>> ans) {
+    public void backtrack(int[] candidates, int target, int index, List<Integer> curr, List<List<Integer>> ans) {
 
         if (target == 0) {
             ans.add(new ArrayList<>(curr));
