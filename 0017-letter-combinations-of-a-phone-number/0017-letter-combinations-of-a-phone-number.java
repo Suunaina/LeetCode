@@ -14,8 +14,7 @@ class Solution {
         return ans;
     }
 
-    public void backtrack(String digits, int index,
-                          StringBuilder curr, List<String> ans) {
+    public void backtrack(String digits, int index, StringBuilder curr, List<String> ans) {
 
         if (index == digits.length()) {
             ans.add(curr.toString());
