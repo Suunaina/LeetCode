@@ -6,7 +6,10 @@ class Solution {
         return solve(n);
     }
 
-    public int solve(int n) {//this function is to return if the value is already calculated
+    public int solve(int n) {
+        //this function is to return if the value is already calculated
+        //basically fibonacci
+        
         if (n <= 3) return n;
 
         if (dp[n] != 0)
