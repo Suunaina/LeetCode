@@ -14,6 +14,7 @@ class Solution {
             x /= 10;
         }
 
-        return x == rev || x == rev / 10;
+        // for odd number of digits, 121 -> 12 -- 1; so it will be wrong, so we do 1 == 12/10 ; 1 == 1
+        return x == rev || x == rev / 10; 
     }
 }
