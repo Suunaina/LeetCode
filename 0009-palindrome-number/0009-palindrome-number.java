@@ -1,17 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0){
+
+        //to check negatives and if number is not 0 but ends with 0
+        if (x < 0 || (x % 10 == 0 && x != 0))
             return false;
+        //if number ends with 0 -> 120, pal will be 021 which is considered as 21 so it can never be pal
+
+        int rev = 0;
+
+        while (x > rev) //to reverse only half of it and check if both halves match
+        {
+            rev = rev * 10 + x % 10;
+            x /= 10;
         }
-        int y=x;
-        int rev=0;
-        while(y > 0){
-            rev = rev*10 + y%10;//1234 0+4 40+3 430+2 4320+1 = 4321
-            y=y/10;//1234 123 12 1
-        }
-        if(rev == x){//4321== 1234
-            return true;
-        }   
-        return false;             
+
+        return x == rev || x == rev / 10;
     }
 }
