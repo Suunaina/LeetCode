@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Suunaina/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Suunaina/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Suunaina/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/Suunaina/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Suunaina/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Suunaina/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suunaina/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
